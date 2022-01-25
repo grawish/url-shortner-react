@@ -1,0 +1,10 @@
+{
+    "eslint.alwaysShowStatus": true,
+    "eslint.format.enable": true,
+    "eslint.packageManager": "yarn",
+    "prettier.singleQuote": true,
+    "tailwindCSS.emmetCompletions": true,
+    "javascript.inlayHints.parameterTypes.enabled": true,
+    "prettier.jsxSingleQuote": true,
+    "javascript.inlayHints.enumMemberValues.enabled": true
+}

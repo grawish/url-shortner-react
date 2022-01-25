@@ -1,0 +1,7 @@
+.button{
+    @apply w-6 h-6 rounded-full
+}
+
+.character{
+    @apply absolute bottom-1 right-16 h-5/6 hidden lg:block
+}
