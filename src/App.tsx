@@ -54,7 +54,7 @@ function App() {
           <h1 className={'text-7xl font-black text-red-500'}>Urls</h1>
           <h1 className={'text-7xl mt-5 font-bold text-gray-700'}>when</h1>
           <h1 className={'text-7xl mt-3 font-bold text-gray-700'}>
-            the shorter,
+            the xhorter,
           </h1>
           <form
             ref={urlForm}
